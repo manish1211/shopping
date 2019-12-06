@@ -1,6 +1,6 @@
-<footer class="py-5 ">
+<footer >
 	<div class="container footer">
-		<p class="m-0 text-top text-black">Copyright &copy; Your
+		<p class=" text-black">Copyright &copy; Your
 			Website 2019</p>
 	</div>
 </footer>
